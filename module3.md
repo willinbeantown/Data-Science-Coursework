@@ -47,3 +47,8 @@
 
   - Manages data ingegrity
 
+## Structure Query Language
+
+- Developed under the name `SEQUEL` by IBM.
+
+- This course will use MySQL (thru Anaconda)
