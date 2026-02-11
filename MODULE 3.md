@@ -119,3 +119,13 @@ An example to `create a table`
 > INSERT INTO db_name.table_name (x, y, x);  <!--Don't forget the semicolon!!-->
 
 - To comment out a line use **--**, to comment multiple lines use **/*..*/**
+
+
+## Python and MySQL Integration
+
+- In complex organization, there are often many servers to access. Combining Python and MySQL can create scripts and programs that can automate workflows.
+
+- To integrate, use `mysql.connector`
+
+- Be sure to remember the `.commit()` function.
+
